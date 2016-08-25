@@ -1,2 +1,2 @@
 # test-submodule-mod
-mod
+mod thrd
